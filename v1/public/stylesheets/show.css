@@ -1,0 +1,48 @@
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail{
+    padding: 0;
+    background:#e0e1e2;;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
+
+#image{
+    width:200px;
+    height:100px;
+}
+
+.checked {
+    color: orange;
+}
+
+.pull-right{
+    font-family: Comic Sans MS 
+}
+
+
+.navbar{
+   background-color: #e0e1e2; 
+   font-family: Comic Sans MS ;
+}
+
+
+
+.caption-full{
+    font-family: Comic Sans MS 
+}
+
+.well{
+    font-family: Comic Sans MS;
+    background:#b3efb3;
+}
+
+
